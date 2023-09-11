@@ -1,5 +1,6 @@
 # 💫 About Me:
-🎓 EPITA - SPE<br>👀 FreeLance<br>🚀 CEO - SetEvent<br>🪖 Stage - Thales<br>🪖 Stage - IRTSystemX<br>
+🎓 EPITA - SPE<br>👀 FreeLance<br>🪖 Stage - Thales<br>🪖 Stage - IRTSystemX<br>
+<!--<br>🚀 CEO - SetEvent-->
 
 
 ## 🌐 Socials:
